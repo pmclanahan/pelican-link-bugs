@@ -1,4 +1,4 @@
-pelican-list-bugs
+pelican-link-bugs
 =================
 
 Automatically link bug/issue references in content to a tracker.
