@@ -19,7 +19,7 @@ requires = [
 
 setup(
     name='pelican-link-bugs',
-    version='0.1',
+    version='0.2',
     description='Automatically link bug tracker references.',
     long_description=readme,
     author='Paul McLanahan',
