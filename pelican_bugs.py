@@ -59,4 +59,4 @@ def register():
     """Plugin registration."""
     signals.initialized.connect(setup_bug_trackers)
     signals.article_generator_finalized.connect(replace_bug_references)
-    signals.pages_generator_finalized.connect(replace_bug_references)
+    signals.page_generator_finalized.connect(replace_bug_references)
